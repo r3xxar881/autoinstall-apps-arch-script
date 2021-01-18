@@ -107,4 +107,4 @@ if [ $(whoami) == "root" ]
 	else
 		echo "*ERROR*: Ejecute el script con 'sudo'!
 		"
-	fi
+fi
